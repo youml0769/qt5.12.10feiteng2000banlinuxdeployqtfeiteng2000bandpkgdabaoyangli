@@ -1,0 +1,1 @@
+# qt5.12.10feiteng2000banlinuxdeployqtfeiteng2000bandpkgdabaoyangli
